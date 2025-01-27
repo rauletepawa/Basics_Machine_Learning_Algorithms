@@ -1,0 +1,3 @@
+The Script file is the PCA3.py file. That's the one that you must execute.
+You will find the data properly processed in dades_personalitat.txt.
+Remember to change the reading pathway in PCA3.py so the script can find dades_personalitat.txt in case it didn't work.
